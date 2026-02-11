@@ -1,6 +1,6 @@
-# Cenvora Community Health Files
+# Cenvora Community Files
 
-This repository contains Cenvora's community health files and shared defaults. We create API libraries for Veeam and Veeam related software, and we welcome contributions from the community.
+This repository contains Cenvora's community files and shared defaults. We create API libraries for Veeam and Veeam related software, and we welcome contributions from the community.
 
 ## Contributing
 
