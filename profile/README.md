@@ -14,15 +14,15 @@ We participate in the Veeam Community Automation Desk. Join the discussion and s
 
 | Library | Description | Language | Status |
 | --- | --- | --- | --- |
-| [veeam-365](https://github.com/Cenvora/veeam-365) | API library for Veeam Backup for Microsoft 365. | Python | Beta |
-| [veeam-br](https://github.com/Cenvora/veeam-br) | API library for Veeam Backup & Replication. | Python | Beta |
-| [veeam-spc](https://github.com/Cenvora/veeam-spc) | API library for Veeam Service Provider Console. | Python | Beta |
-| VeeamONE | Planned API library for VeeamONE. | Python | Planned |
-| Veeam Enterprise Manager | Planned API library for Veeam Enterprise Manager. | Python | Planned |
+| [veeam-365](https://github.com/Cenvora/veeam-365) | API library for Veeam Backup for Microsoft 365 | Python | Beta |
+| [veeam-br](https://github.com/Cenvora/veeam-br) | API library for Veeam Backup & Replication | Python | Beta |
+| [veeam-spc](https://github.com/Cenvora/veeam-spc) | API library for Veeam Service Provider Console | Python | Beta |
+| veeam-one | Planned API library for Veeam ONE | Python | Planned |
+| veeam-em | Planned API library for Veeam Enterprise Manager | Python | Planned |
 
 ## Community Integrations
 
 | Project | Description | Language | Status |
 | --- | --- | --- | --- |
-| [ha-veeam-br](https://github.com/Cenvora/ha-veeam-br) | Home Assistant integration for Veeam Backup & Replication. | Python | Beta |
+| [ha-veeam-br](https://github.com/Cenvora/ha-veeam-br) | Home Assistant integration for Veeam Backup & Replication | Python | Beta |
 | [ha-veeam-365](https://github.com/Cenvora/ha-veeam-365) | Home Assistant integration for Veeam Backup for Microsoft 365 | Python | Beta |
