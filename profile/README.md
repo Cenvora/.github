@@ -26,3 +26,5 @@ We participate in the Veeam Community Automation Desk. Join the discussion and s
 | --- | --- | --- | --- |
 | [ha-veeam-br](https://github.com/Cenvora/ha-veeam-br) | Home Assistant integration for Veeam Backup & Replication | Python | Beta |
 | [ha-veeam-365](https://github.com/Cenvora/ha-veeam-365) | Home Assistant integration for Veeam Backup for Microsoft 365 | Python | Beta |
+| ha-veeam-one | Planned Home Assistant integration for Veeam ONE | Python | Planned |
+| ha-veeam-em | Planned Home Assistant integration for Veeam Enterprise Manager | Python | Planned |
