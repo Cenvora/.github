@@ -20,6 +20,10 @@ We participate in the Veeam Community Automation Desk. Join the discussion and s
 | [veeam-az](https://github.com/Cenvora/veeam-az) | API library for Veeam Backup for Azure | Python | Beta |
 | veeam-one | Planned API library for Veeam ONE | Python | Planned |
 | veeam-em | Planned API library for Veeam Enterprise Manager | Python | Planned |
+| veeam-aw | Planned API library for Veeam Backup for AWS | Python | Planned |
+| veeam-gc | Planned API library for Veeam Backup for GCP | Python | Planned |
+| veeam-ro | Planned API library for Veeam Recovery Orchestrator | Python | Planned |
+| veeam-nx | Planned API library for Veeam Backup for Nutanix AHV | Python | Planned |
 
 ## Community Integrations
 
