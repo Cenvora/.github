@@ -31,6 +31,6 @@ We participate in the Veeam Community Automation Desk. Join the discussion and s
 | --- | --- | --- | --- |
 | [ha-veeam-br](https://github.com/Cenvora/ha-veeam-br) | Home Assistant integration & automation blueprints for Veeam Backup & Replication | Python | GA |
 | [ha-veeam-365](https://github.com/Cenvora/ha-veeam-365) | Home Assistant integration & automation blueprints for Veeam Backup for Microsoft 365 | Python | GA |
-| [ha-veeam-br-dashboard](https://github.com/Cenvora/ha-veeam-br-dashboard) | Home Assistant dashboard template for Veeam Backup & Replication | JavaScript | Beta |
-| [ha-veeam-365-dashboard](https://github.com/Cenvora/ha-veeam-365-dashboard) | Home Assistant dashboard template for Veeam Backup for Microsoft 365 | JavaScript | Beta |
+| [ha-veeam-br-dashboard](https://github.com/Cenvora/ha-veeam-br-dashboard) | Home Assistant dashboard template for Veeam Backup & Replication | JavaScript | GA |
+| [ha-veeam-365-dashboard](https://github.com/Cenvora/ha-veeam-365-dashboard) | Home Assistant dashboard template for Veeam Backup for Microsoft 365 | JavaScript | GA |
 | ha-veeam-one | Planned Home Assistant integration for Veeam ONE | Python | Planned |
