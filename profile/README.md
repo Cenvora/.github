@@ -17,8 +17,8 @@ We participate in the Veeam Community Automation Desk. Join the discussion and s
 | [veeam-365](https://github.com/Cenvora/veeam-365) | API library for Veeam Backup for Microsoft 365 | Python | GA |
 | [veeam-br](https://github.com/Cenvora/veeam-br) | API library for Veeam Backup & Replication | Python | GA |
 | [veeam-spc](https://github.com/Cenvora/veeam-spc) | API library for Veeam Service Provider Console | Python | GA |
+| [veeam-one](https://github.com/Cenvora/veeam-one) | API library for Veeam ONE | Python | GA |
 | [veeam-az](https://github.com/Cenvora/veeam-az) | API library for Veeam Backup for Azure | Python | Beta |
-| [veeam-one](https://github.com/Cenvora/veeam-one) | API library for Veeam ONE | Python | Beta |
 | veeam-em | Planned API library for Veeam Enterprise Manager | Python | Planned |
 | veeam-aw | Planned API library for Veeam Backup for AWS | Python | Planned |
 | veeam-gc | Planned API library for Veeam Backup for GCP | Python | Planned |
@@ -33,5 +33,5 @@ We participate in the Veeam Community Automation Desk. Join the discussion and s
 | [ha-veeam-365](https://github.com/Cenvora/ha-veeam-365) | Home Assistant integration & automation blueprints for Veeam Backup for Microsoft 365 | Python | GA |
 | [ha-veeam-br-dashboard](https://github.com/Cenvora/ha-veeam-br-dashboard) | Home Assistant dashboard template for Veeam Backup & Replication | JavaScript | GA |
 | [ha-veeam-365-dashboard](https://github.com/Cenvora/ha-veeam-365-dashboard) | Home Assistant dashboard template for Veeam Backup for Microsoft 365 | JavaScript | GA |
-| [ha-veeam-one](https://github.com/Cenvora/ha-veeam-one) | Home Assistant integration for Veeam ONE | Python | Beta |
-| [ha-veeam-one-dashboard](https://github.com/Cenvora/ha-veeam-one-dashboard) | Home Assistant dashboard template for Veeam ONE | JavaScript | Beta | 
+| [ha-veeam-one](https://github.com/Cenvora/ha-veeam-one) | Home Assistant integration for Veeam ONE | Python | GA |
+| [ha-veeam-one-dashboard](https://github.com/Cenvora/ha-veeam-one-dashboard) | Home Assistant dashboard template for Veeam ONE | JavaScript | GA | 
