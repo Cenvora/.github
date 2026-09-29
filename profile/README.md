@@ -18,7 +18,7 @@ We participate in the Veeam Community Automation Desk. Join the discussion and s
 | [veeam-br](https://github.com/Cenvora/veeam-br) | API library for Veeam Backup & Replication | Python | GA |
 | [veeam-spc](https://github.com/Cenvora/veeam-spc) | API library for Veeam Service Provider Console | Python | GA |
 | [veeam-az](https://github.com/Cenvora/veeam-az) | API library for Veeam Backup for Azure | Python | Beta |
-| veeam-one | Planned API library for Veeam ONE | Python | Planned |
+| [veeam-one](https://github.com/Cenvora/veeam-one) | Planned API library for Veeam ONE | Python | Alpha |
 | veeam-em | Planned API library for Veeam Enterprise Manager | Python | Planned |
 | veeam-aw | Planned API library for Veeam Backup for AWS | Python | Planned |
 | veeam-gc | Planned API library for Veeam Backup for GCP | Python | Planned |
